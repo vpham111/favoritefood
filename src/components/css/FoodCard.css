@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.card-content {
+    text-align: center;  /* Centers the text inside the card */
+    width: 300px;
+    box-shadow: 0 15px 25px #817c7c33;
+}
+
+
+  
+  .food-text h2, .food-text p, .food-text a {
+    margin: 0;
+    padding: 10px 0;     /* Adds spacing between the text elements */
+  }
+  
+  a {
+    color: #6b46c1;      /* Custom color for the link */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

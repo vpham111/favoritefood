@@ -11,6 +11,8 @@ import japchae from "../src/assets/japchae.png"
 import bratwurst from "../src/assets/bratwurst.png"
 import karjal from "../src/assets/karjal.png"
 
+document.body.style = 'background: lightblue;';
+
 function App() {
   return (
     <>
